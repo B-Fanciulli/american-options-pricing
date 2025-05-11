@@ -151,3 +151,4 @@ class GeskeJohnsonMethod:
         return P3 + (7 / 2) * (P3 - P2) - (1 / 2) * (P2 - P1)
 
 
+# TODO: pass T as a parameter, then change dt to t and dt = T - t
